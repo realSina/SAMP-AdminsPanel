@@ -1,8 +1,8 @@
 Credit:
 *********************************************
 Made by: Sina
-** Didn't copied from anywhere!
-** It takes my time about 2 hours to debug and write this!
+** Didn't copy from anywhere!
+** It took my time about 2 hours to write!
 Instagram ID: http://instagram.com/xrealsina/
 Telegram ID: http://t.me/realSina/
 GitHub: https://github.com/realSina/
